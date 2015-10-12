@@ -1,6 +1,7 @@
 ﻿import simpleguitk as simplegui
 import random, math
 
+#Delayem programmy
 # initialize globals - pos and vel encode vertical info for paddles
 WIDTH = 600
 HEIGHT = 400
